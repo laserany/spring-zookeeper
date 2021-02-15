@@ -1,0 +1,6 @@
+logging:
+  level:
+    org.apache.zookeeper.ClientCnxn: WARN
+
+server:
+  port: 8085
